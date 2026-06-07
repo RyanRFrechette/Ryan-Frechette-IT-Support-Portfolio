@@ -29,7 +29,7 @@
   var lines = [
     '> initializing Ryan Frechette...',
     '> loading IT support portfolio...',
-    '> stack: troubleshooting | M365 | osTicket | networking',
+    '> stack: troubleshooting | M365 | AD | osTicket | Windows | PowerShell',
     '> status: ready to solve problems'
   ];
 
